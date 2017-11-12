@@ -1,4 +1,5 @@
 use migu;
+SET NAMES utf8mb4;
 insert into MGSX_INFO_STAR(STAR_NO,NAME,BIRTHDAY,GENDER) values(1,'50CENT','1975/07/06','M');
 insert into MGSX_INFO_STAR(STAR_NO,NAME,BIRTHDAY,GENDER) values(2,'KIMI','2009/09/15','M');
 insert into MGSX_INFO_STAR(STAR_NO,NAME,BIRTHDAY,GENDER) values(3,'Lady Gaga','1986/03/28','F');
